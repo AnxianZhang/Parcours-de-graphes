@@ -7,4 +7,4 @@ Durant la première partie du projet nous avons du réaliser deux classes, Graph
 et GrapheMA (matrice d'adjacence). La deuxième partie consistait à programmer 2 algorithmes, Bellman-Ford et Dijkstra
 tout en intégrant de l'héritage et des intefaces.
 
-### Contenu
+### Contenu des dosiers
