@@ -1,4 +1,4 @@
-# Parcours-de-graphes (Matière: Qualité de développement)
+# Parcours-de-graphes (Qualité de développement)
 ## Note 1er partie : 17/20
 ## Note 2ème partie: 20/20
 
