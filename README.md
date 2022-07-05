@@ -8,3 +8,7 @@ et GrapheMA (matrice d'adjacence). La deuxième partie consistait à programmer 
 tout en intégrant de l'héritage et des intefaces.
 
 ### Contenu des dosiers
+  - graphes: contient des graphes ac (avec circuit(s)) et sc (sans circuit), allant de de 10 à 1000 arcs;
+  - reponses: contient les réponces des que le programme doit ressortir après avoir lu un graphe du dosier "graphes",
+  - src: posède les sources des 2 parties
+    - la partie une se trouve dans le paquetage "savep1", le reste correspond à la partie deux.
