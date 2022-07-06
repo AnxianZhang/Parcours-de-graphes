@@ -162,7 +162,6 @@ public class GrapheImporter {
             sb.append(sc.nextLine());
             sb.append("\n");
         }
-        System.out.println(sb);
         return sb.toString();
     }
 }
