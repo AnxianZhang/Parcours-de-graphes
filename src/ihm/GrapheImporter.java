@@ -136,19 +136,6 @@ public class GrapheImporter {
     }
 
     public static String importerReponse(String filePath) throws FileNotFoundException {
-        /*File file = new File(filePath);
-        Scanner sc = new Scanner(file);
-        String s = "";
-        StringBuilder sb = new StringBuilder();
-        if (! sc.hasNextLine()) {
-            sc.close();
-            throw new IllegalArgumentException("Pas de reponse dans "+ file);
-        }
-        s = sc.nextLine(); // saute le nom de l'ago, car il ne sera pas stockuer
-        sb.append(sc.nextLine()).append("\n").append(sc.nextLine());
-        return sb.toString();*/
-
-        //avec le nom  de l'algo
 
         File file = new File(filePath);
         Scanner sc = new Scanner(file);
