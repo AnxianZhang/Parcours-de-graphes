@@ -136,7 +136,6 @@ public class GrapheImporter {
     }
 
     public static String importerReponse(String filePath) throws FileNotFoundException {
-
         File file = new File(filePath);
         Scanner sc = new Scanner(file);
         StringBuilder sb = new StringBuilder();
