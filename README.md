@@ -11,4 +11,4 @@ tout en intégrant de l'héritage et des intefaces.
   - graphes: contient des graphes ac (avec circuit(s)) et sc (sans circuit), allant de de 10 à 1000 arcs;
   - reponses: contient les réponces des que le programme doit ressortir après avoir lu un graphe du dosier "graphes",
   - src: posède les sources des 2 parties
-    - la partie une se trouve dans le paquetage "savep1", le reste correspond à la partie deux.
+    - la partie une se trouve dans le paquetage "savep1" et le reste correspond à la partie deux.
